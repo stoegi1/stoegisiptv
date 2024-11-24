@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CBS (WCTV)" tvg-logo="https://commons.wikimedia.org/wiki/File:CBS_logo.svg" group-title="",CBS (WCTV)
+https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/playlist.m3u8?wowzatokenhash=2j3MlB60WZ0ZEBtzDQEjANx2p9kvqaLfxIKLPD_9QWQ=
+#EXTINF:-1 tvg-id="FOX (WTWC)" tvg-logo="https://en.m.wikipedia.org/wiki/File:FOX_wordmark.svg" group-title="",FOX (WTWC)
+https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/chunklist_w1592636951_tkd293emF0b2tlbmhhc2g9ZEdmSGdKbnhNanBodGpXTkhQMng3Nlk3RzVvSVY3b0FZQWtKbXlxMDU3QT0=.m3u8
+#EXTINF:-1 tvg-id="NBC (WTWC)" tvg-logo="https://en.m.wikipedia.org/wiki/File:NBC_logo.svg" group-title="",NBC (WTWC)
+https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/chunklist_w1648015465_tkd293emF0b2tlbmhhc2g9eHVlRkxkWW94cmJTbjl5aEVSNC1HcGplMmxWMHFRQWtNRmVwNDRYR3NtRT0=.m3u8
+#EXTINF:-1 tvg-id="ABC (WTXL)" tvg-logo="https://en.wikipedia.org/wiki/American_Broadcasting_Company" group-title="",ABC (WTXL)
+https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/chunklist_w1903110104_tkd293emF0b2tlbmhhc2g9T2tsTzRxTjdpRTE4c05uTEdqTE9QblI0M3YzY1lFS2ZaQUk4SnJiTXFOcz0=.m3u8
